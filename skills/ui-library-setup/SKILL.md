@@ -1,5 +1,5 @@
 ---
-name: ui-lib
+name: ui-library-setup
 description: Sets up the marso-ai/ui-lib design system and applies design guidelines to the project. Use when working on UI, components, or design tasks.
 allowed-tools: Bash, Read, Write, Glob
 ---
