@@ -1,5 +1,5 @@
 ---
-name: frontend
+name: frontend-design
 description: Use when performing any frontend or UI task. Ensures design guidelines are followed before making changes.
 allowed-tools: Read, Write, Edit, Glob
 ---
